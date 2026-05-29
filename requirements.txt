@@ -14,3 +14,5 @@ edge-tts
 gTTS
 opencv-python-headless
 groq
+rembg
+onnxruntime
