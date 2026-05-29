@@ -1,13 +1,5 @@
 pyrogram
-TgCrypto
-aiohttp
-opencv-python
-numpy
+tgcrypto
+python-dotenv
+aiofiles
 requests
-yt-dlp
-groq
-Pillow
-rembg
-edge-tts
-gTTS
-pytgcalls
