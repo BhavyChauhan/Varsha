@@ -13,3 +13,4 @@ python-dotenv
 edge-tts
 gTTS
 opencv-python-headless
+groq
