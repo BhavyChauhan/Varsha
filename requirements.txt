@@ -1,10 +1,3 @@
-pyrogram
-tgcrypto
-python-dotenv
-aiofiles
-requests
-aiohttp==3.12.15
-opencv-python-headless==4.12.0.88
 pyrogram==2.0.106
 tgcrypto==1.2.5
 python-dotenv==1.2.2
@@ -18,12 +11,9 @@ dnspython
 pymongo
 yt-dlp
 ffmpeg-python
-pytgcalls
-ntgcalls
 aiofiles
 psutil
+spotipy
 openai
 groq
 google-generativeai
-spotipy
-py-tgcalls
