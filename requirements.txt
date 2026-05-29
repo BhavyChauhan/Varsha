@@ -12,4 +12,3 @@ ffmpeg-python
 python-dotenv
 edge-tts
 gTTS
-python-3.10.13
